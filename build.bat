@@ -1,0 +1,1 @@
+cl main.cpp Kernel32.lib User32.lib Gdi32.lib /Fe:dontsleep.exe
